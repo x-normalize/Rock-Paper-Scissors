@@ -2,6 +2,9 @@
 
 ![Screenshot-1](https://user-images.githubusercontent.com/94692820/191995039-a1801fcd-a0de-4293-9ce6-d75e7a113374.jpg)
 
+You can try the game here:  <a href="https://replit.com/@x-normalize/Rock-Paper-Scissors?v=1">this link<a/> just  click RUN to start the game
+
+
 Rock-Paper-Scissors is a simple two-player game, where you and your opponent (the computer) simultaneously choose one of the following three options: "rock", "paper", or "scissors". The rules are as follows:
 
 •	Rock beats scissors (the scissors get broken by the rock)
